@@ -1,4 +1,4 @@
-# Sistem Basis Data Administrasi Desa 🏛️
+# Sistem Basis Data Administrasi Desa 
 
 Repository ini berisi *final project* (Evaluasi Akhir Semester) untuk mata kuliah Pemrograman Basis Data. 
 
@@ -61,7 +61,3 @@ Bagi penguji yang ingin mencoba *run* database ini di *local machine*, silakan i
 ---
 
 *Proyek ini di-submit untuk memenuhi Evaluasi Akhir Semester (EAS) Pemrograman Basis Data - 2026.*
-
-```
-
-```
