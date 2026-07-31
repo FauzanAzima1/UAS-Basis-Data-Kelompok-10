@@ -20,12 +20,11 @@ Sistem ini tidak sekadar melakukan operasi CRUD biasa, melainkan memindahkan *bu
 - **Audit Log:** Mencatat otomatis setiap aksi, waktu, dan *user* yang melakukan perubahan data ke tabel `audit_log`.
 - **Indexing:** Optimasi performa *query* untuk mempercepat pencarian nama penduduk dan nomor surat.
 
-## 📂 Struktur Direktori
+##  Struktur Direktori
 file di repo ini dibagi menjadi dua folder utama:
 
 ```text
 📦 UAS-Basis-Data-Kelompok-10
-├── 📂 docs                   # Laporan dokumentasi (PDF), file presentasi, dan gambar ERD
 ├── 📂 sql                    # Source code SQL lengkap 
 │   ├── 01_Skema_Tabel.sql    # Script DDL (Create DB, Table, Index)
 │   ├── 02_Objek_Database.sql # Script Logic (SP, Function, Trigger, Cursor)
